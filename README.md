@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/FLCN17/JuliaCipher.jl.svg?branch=master)](https://travis-ci.org/FLCN17/JuliaCipher.jl[![Coverage Status](https://coveralls.io/repos/FLCN17/JuliaCipher.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/FLCN17/JuliaCipher.jl?branch=master)[![codecov.io](http://codecov.io/github/FLCN17/JuliaCipher.jl/coverage.svg?branch=master)](http://codecov.io/github/FLCN17/JuliaCipher.jl?branch=master)
 # JuliaCipher
 This program is basically a quick method to lock up files over a publicly accessable medium,
 -and have the retreivable based on a shared file and phrase
@@ -21,8 +22,4 @@ The code consits of a heavily modified ADFGVX cipher, which is itself a fancy ad
 Above all, never trust a new, undocumented, and home-brewed cipher method for anything actually sensitive. 
 
 #(!)Use literally any other popular method is you want true security(!)#
-[![Build Status](https://travis-ci.org/FLCN17/JuliaCipher.jl.svg?branch=master)](https://travis-ci.org/FLCN17/JuliaCipher.jl)
 
-[![Coverage Status](https://coveralls.io/repos/FLCN17/JuliaCipher.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/FLCN17/JuliaCipher.jl?branch=master)
-
-[![codecov.io](http://codecov.io/github/FLCN17/JuliaCipher.jl/coverage.svg?branch=master)](http://codecov.io/github/FLCN17/JuliaCipher.jl?branch=master)
